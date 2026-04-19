@@ -27,9 +27,9 @@
 
 ### Writing & point of view
 
-- **[Why Job Portals Feel Broken: A Systems Design Perspective]([https://linkedin.com/in/yadavsanjeet](https://www.linkedin.com/posts/yadavsanjeet_ai-systemdesign-rag-activity-7409279865977249792-_GXM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAm2LS0BRO9cK01gjO4DhrVMtcyojuTiMqo))** —Rethinking recruitment using RAG, reranking, and intent-driven matching
-- **[A Stained Return That Explained Ecommerce Ops Better Than Any Framework]([https://linkedin.com/in/yadavsanjeet](https://www.linkedin.com/posts/yadavsanjeet_most-ecommerce-ops-problems-arent-technical-activity-7431563501787238401-Gsj-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAm2LS0BRO9cK01gjO4DhrVMtcyojuTiMqo))** — Why the real problem isn’t logistics complexity, it’s `unmanaged cognitive load`
-- **[Designing for Certainty: A Logistics Case Study on User Anxiety]([https://linkedin.com/in/yadavsanjeet](https://www.linkedin.com/posts/yadavsanjeet_we-once-shipped-a-single-outfit-to-surat-activity-7406981360931811328-zubP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAm2LS0BRO9cK01gjO4DhrVMtcyojuTiMqo))** — Mapping user state of mind to product decisions in the `post-purchase journey`
+- **[Why Job Portals Feel Broken: A Systems Design Perspective](https://www.linkedin.com/posts/yadavsanjeet_ai-systemdesign-rag-activity-7409279865977249792-_GXM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAm2LS0BRO9cK01gjO4DhrVMtcyojuTiMqo))** —Rethinking recruitment using RAG, reranking, and intent-driven matching
+- **[A Stained Return That Explained Ecommerce Ops Better Than Any Framework](https://www.linkedin.com/posts/yadavsanjeet_most-ecommerce-ops-problems-arent-technical-activity-7431563501787238401-Gsj-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAm2LS0BRO9cK01gjO4DhrVMtcyojuTiMqo))** — Why the real problem isn’t logistics complexity, it’s `unmanaged cognitive load`
+- **[Designing for Certainty: A Logistics Case Study on User Anxiety](https://www.linkedin.com/posts/yadavsanjeet_we-once-shipped-a-single-outfit-to-surat-activity-7406981360931811328-zubP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAm2LS0BRO9cK01gjO4DhrVMtcyojuTiMqo))** — Mapping user state of mind to product decisions in the `post-purchase journey`
 
 ---
 
