@@ -1,42 +1,40 @@
 # Sanjeet Yadav
+**Product Manager** &nbsp;·&nbsp; Gurgaon, India &nbsp;·&nbsp; 🟢 Open to senior PM roles
 
-Product Manager · AI products, B2C, D2C · Gurgaon, India  
-I build things end-to-end — from discovery to deployment.
-
----
-
-11 years across AI-native products, marketplaces, and D2C e-commerce. Most recently owned an AI video/voice interview product at Saathi WorldApp — 200K+ monthly sessions, rebuilt the architecture from scratch, and cut infrastructure cost by 92% without losing a single feature. I work best at the intersection of user problems and technical constraints, where most PMs stop reading.
+> 11 years across AI-native products, marketplaces, and D2C. Most recently — sole PM on an AI voice interview product at Saathi WorldApp. **200K+ sessions/month.** Rebuilt the architecture, cut infra cost by **92%**, dropped dropout from 28% → 16%. I work at the intersection of user problems and technical constraints — *where most PMs stop reading.*
 
 ---
 
-## Numbers that matter
+## Impact
 
-| | |
-|---|---|
-| **200K+** monthly AI interview sessions on a product I built solo from 0 | **92%** infra cost reduction — ₹60/session down to ₹5 |
-| **16%** interview dropout (down from 28%) after conversational redesign | **9+ yrs** across AI, marketplace, SaaS, and D2C founding |
-
----
-
-## What I'm building
-
-**[undrlyn](https://undrlyn.com)** — A reading companion for physical book readers. Photograph a page, save highlights, build a diary you didn't know you were writing.  
-`Next.js` `Supabase` `Google Cloud Vision` `live`
-
-**[AsthaAI](https://astha-ai-mu.vercel.app)** — Intent-first search layer on InstaAstro. Closes the gap between what users ask and what they actually mean.  
-`OpenAI` `Vercel`
-
-**[Spinny Inspector](https://spinny-inspector.vercel.app)** — Redesigned car inspection workflow. 60-point mobile-first field ops experience.  
-`prototype`
+| 200K+ | 92% | ↓16% | 9+ yrs |
+|:---:|:---:|:---:|:---:|
+| Monthly AI interview sessions | Infra cost reduction | Interview dropout after redesign | AI · SaaS · D2C founding |
 
 ---
 
-## Writing & thinking
+## Building now
 
-- [How I rebuilt an AI interviewer and cut cost by 92%](#) — Sarvam STT/TTS + GPT-4o mini + conversation state manager
-- [What Unicommerce gets right that no one talks about](#) — A teardown through a 2-time D2C founder's lens
-- [ParkPlus is not a parking app](#) — On how mobility infrastructure products create silent moats
+**[undrlyn](https://undrlyn.com)** &nbsp;`live`  
+Reading companion for physical books. Photograph a page — OCR extracts highlights, stores reactions and thoughts that resurface over time. *Your highlights are a diary you didn't know you were writing.*  
+`Next.js 14` `Supabase` `Google Cloud Vision` `Vercel`
+
+**[AsthaAI](https://astha-ai-mu.vercel.app)**  
+Intent-first search layer on InstaAstro. Closes the gap between what users type and what they actually mean.  
+`OpenAI` `Vercel` `search UX`
+
+**[Spinny Inspector](https://spinny-inspector.vercel.app)**  
+Redesigned car inspection workflow. 60-point mobile-first experience built for field ops efficiency.  
+`prototype` `field ops`
 
 ---
 
-[LinkedIn](https://linkedin.com/in/sanjeetyadav) · [undrlyn.com](https://undrlyn.com) · [Email](mailto:sanju88ind@gmail.com)
+## Writing & point of view
+
+- **[How I rebuilt an AI interviewer and cut cost by 92%](#)** — Sarvam STT/TTS + GPT-4o mini + conversation state manager ·&nbsp; `AI infra`
+- **[What Unicommerce gets right that no one talks about](#)** — A teardown through a 2-time D2C founder's lens ·&nbsp; `teardown`
+- **[ParkPlus is not a parking app](#)** — How mobility infra products create silent moats ·&nbsp; `strategy`
+
+---
+
+[LinkedIn](https://linkedin.com/in/sanjeetyadav) &nbsp;·&nbsp; [undrlyn.com](https://undrlyn.com) &nbsp;·&nbsp; [Email](mailto:sanju88ind@gmail.com)
