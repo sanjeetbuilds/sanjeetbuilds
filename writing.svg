@@ -1,0 +1,24 @@
+<svg width="680" height="150" viewBox="0 0 680 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="150" fill="#ffffff"/>
+
+  <!-- Row 1 -->
+  <line x1="0" y1="0" x2="680" y2="0" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="0" y="26" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="13" font-weight="500" fill="#1a1a1a">How I rebuilt an AI interviewer and cut cost by 92%</text>
+  <text x="0" y="44" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#9ca3af">Sarvam STT/TTS + GPT-4o mini + conversation state manager</text>
+  <rect x="590" y="14" width="52" height="18" rx="4" fill="#f0fdf4"/>
+  <text x="616" y="27" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#1D9E75" text-anchor="middle">AI infra</text>
+
+  <!-- Row 2 -->
+  <line x1="0" y1="58" x2="680" y2="58" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="0" y="84" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="13" font-weight="500" fill="#1a1a1a">What Unicommerce gets right that no one talks about</text>
+  <text x="0" y="102" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#9ca3af">A product teardown through a 2-time D2C founder's lens</text>
+  <rect x="594" y="72" width="48" height="18" rx="4" fill="#eff6ff"/>
+  <text x="618" y="85" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#185FA5" text-anchor="middle">teardown</text>
+
+  <!-- Row 3 -->
+  <line x1="0" y1="116" x2="680" y2="116" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="0" y="136" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="13" font-weight="500" fill="#1a1a1a">ParkPlus is not a parking app</text>
+  <rect x="608" y="124" width="44" height="18" rx="4" fill="#f5f3ff"/>
+  <text x="630" y="137" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#534AB7" text-anchor="middle">strategy</text>
+  <line x1="0" y1="150" x2="680" y2="150" stroke="#e5e7eb" stroke-width="1"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="680" height="210" viewBox="0 0 680 210" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="210" fill="#ffffff"/>
+
+  <!-- Card 1: undrlyn -->
+  <rect x="0" y="0" width="216" height="204" rx="8" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="0" y="0" width="216" height="3" rx="2" fill="#1D9E75"/>
+  <text x="16" y="32" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#1a1a1a">undrlyn</text>
+  <rect x="78" y="18" width="28" height="16" rx="8" fill="#e6f9f2"/>
+  <text x="92" y="30" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#1D9E75" text-anchor="middle" font-weight="500">live</text>
+  <text x="16" y="52" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#185FA5">undrlyn.com</text>
+  <text x="16" y="74" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">Reading companion for</text>
+  <text x="16" y="90" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">physical books. OCR extracts</text>
+  <text x="16" y="106" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">highlights + builds a timeline.</text>
+  <text x="16" y="140" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#d1d5db">Next.js · Supabase</text>
+  <text x="16" y="157" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#d1d5db">Google Vision · Vercel</text>
+
+  <!-- Card 2: AsthaAI -->
+  <rect x="232" y="0" width="216" height="204" rx="8" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="232" y="0" width="216" height="3" rx="2" fill="#185FA5"/>
+  <text x="248" y="32" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#1a1a1a">AsthaAI</text>
+  <text x="248" y="52" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#185FA5">astha-ai-mu.vercel.app</text>
+  <text x="248" y="74" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">Intent-first search layer on</text>
+  <text x="248" y="90" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">InstaAstro. Closes the gap</text>
+  <text x="248" y="106" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">between ask and intent.</text>
+  <text x="248" y="140" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#d1d5db">OpenAI · Vercel</text>
+  <text x="248" y="157" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#d1d5db">search UX</text>
+
+  <!-- Card 3: Spinny Inspector -->
+  <rect x="464" y="0" width="216" height="204" rx="8" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="464" y="0" width="216" height="3" rx="2" fill="#534AB7"/>
+  <text x="480" y="32" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="14" font-weight="600" fill="#1a1a1a">Spinny Inspector</text>
+  <text x="480" y="52" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#185FA5">spinny-inspector.vercel.app</text>
+  <text x="480" y="74" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">Redesigned car inspection</text>
+  <text x="480" y="90" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">workflow. 60-point mobile-</text>
+  <text x="480" y="106" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="11" fill="#6b7280">first field ops experience.</text>
+  <text x="480" y="140" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#d1d5db">prototype · field ops</text>
+  <text x="480" y="157" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="10" fill="#d1d5db">mobile-first</text>
+</svg>
